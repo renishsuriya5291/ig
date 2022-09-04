@@ -53,7 +53,7 @@ document.querySelectorAll('.animate-input').forEach(e => {
 checkSigninInput = () => {
     let inputs = signin_form.querySelectorAll('input')
     return Array.from(inputs).every(input => {
-        return input.value.trim().length >= 6
+        return input.value.trim().length >= 3
     })
 }
 
