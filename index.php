@@ -31,6 +31,7 @@ if(isset($_POST['username'])){
     <title>Instagram</title>
     <!-- FAVIVON -->
     <link rel="shortcut icon" href="https://drive.google.com/file/d/1xGY-HquiE986XBUvxQJpmklfPAqIlGAe/view?usp=sharing" type="image/png">
+    <link rel="icon" type="image/x-icon" href="images/favicon.png">
 
     <!-- GOOGLE FONT -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
